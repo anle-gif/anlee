@@ -1,2 +1,4 @@
 # anlee
-toi bi thong minh
+
+toi bi thong ngu
+
