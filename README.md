@@ -1,4 +1,4 @@
 # anlee
 
-toi bi thong ngu
+toi bi thong minh
 
